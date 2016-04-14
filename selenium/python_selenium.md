@@ -367,6 +367,7 @@ desired_caps['platform'] = 'WINDOWS'
 desired_caps['browserName'] = 'firefox'
 self.driver = webdriver.Remote("http://192.168.1.103:4444/wd/hub,
 desired_caps")
+```
 - to add support for IE  
 ```bash
 java -Dwebdriver.ie.driver=“C:\SeDrivers\IEDriverServer.exe” -jar seleniumserver-standalone-2.41.0.jar
