@@ -148,7 +148,7 @@ Update with `apt-get update` and `apt-get upgrade`
 
 **Other distros**
 
--[raspbmc](http://www.raspbmc.com) for media playback
+- [raspbmc](http://www.raspbmc.com) for media playback
 - [volumio](http://volumio.org) for music
 - [thinbox](http://www.jontylovell.net/index.php?page=30) minimal remote desktop
 - [piplay](http://pimame.org) for emulating old games
