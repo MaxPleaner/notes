@@ -282,7 +282,6 @@ for more info, see [w3schools](http://www.w3schools.com/Xpath/) and
 - `driver.delete_cookie(name)`
 - `driver.get_cookie(name)`
 - `driver.get_cookies()`
-- 
 
 **Record video of test run**
 
