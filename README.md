@@ -14,8 +14,8 @@ _Browser automation_
 
 _$30 computer_
 
-- went through a raspbian textbook (very beginner level)
-- [topics/raspbian/raspbian.md](topics/raspbian/raspbian.md)
+- went through a raspbian textbook (very beginner level)  
+  [topics/raspbian/raspbian.md](topics/raspbian/raspbian.md)
 
 ---
 
@@ -23,6 +23,7 @@ _$30 computer_
 
 _Ruby-flavored Java_
 
-- went through docs
-- [topics/groovy/groovy.md](topics/groovy/groovy.md)
+- went through docs  
+  [topics/groovy/groovy.md](topics/groovy/groovy.md)
 
+---
