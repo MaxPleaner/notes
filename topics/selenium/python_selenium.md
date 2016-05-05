@@ -92,7 +92,7 @@ driver = webdriver.Chrome(chrome_driver_path)
 
 **Testing with `unittest`**
 
-This is only tangentially related - see [sections/unittest.md]
+This is only tangentially related - see [sections/unittest.md](sections/unittest.md)
 
 **Selenium's DOM query methods**
 
