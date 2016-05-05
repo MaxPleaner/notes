@@ -1,6 +1,3 @@
-look in the folders to see the notes (the markdown files)`  
-
-Directory:
 
 ---
 
@@ -8,8 +5,8 @@ Directory:
 
 _Browser automation_
 
-- went through a python/selenium textbook
-- [topics/selenium/python_selenium.md](topics/selenium/python_selenium.md)
+- went through a python/selenium textbook  
+  [topics/selenium/python_selenium.md](topics/selenium/python_selenium.md)
 
 ---
 
